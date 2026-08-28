@@ -4,38 +4,43 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=CYBERSECURITY+%7C+1337+%7C+SYSTEMS;Licence+in+Cybersecurity+%F0%9F%94%90;Computer+Science+Student+%40+1337+%F0%9F%92%BB;Learning+by+building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Licence+in+Cybersecurity+%F0%9F%94%90;Computer+Science+Student+%40+1337+%F0%9F%92%BB;Learning+by+building+%F0%9F%9A%80" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=meryemza&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
 ---
-
 <div align="center">
 
-### `01` — WHO AM I?
+### `01` — About Me
 
 </div>
 
 <br>
+<div align="center">
+  
+🎓 Licence in Cybersecurity
 
-> 🎓 **Licence in Cybersecurity**
-> 💻 **Computer Science Student @ 1337 (42 Network)**
-> 🔐 Interested in **Cybersecurity & Secure Software**
-> 🖥️ Exploring **Systems Programming & Linux**
-> 🧠 Passionate about **Algorithms & Problem Solving**
-> 🤖 Exploring **AI, LLMs & Function Calling**
+🏫 Currently studying Computer Science at 1337 (42 Network)
 
-<br>
+🔐 Interested in Cybersecurity and secure software development
+
+🖥️ Exploring systems programming, Linux and low-level development
+
+🧠 Passionate about algorithms, problem solving and understanding how things work under the hood
+
+🤖 Currently exploring AI, LLMs and function calling
+
+🚀 I learn by building projects and challenging myself beyond my comfort zone.
+</div>
 
 <div align="center">
-
-*"I learn by building, breaking, and understanding how things work."*
+<br>
+"I learn by building, breaking, and understanding how things work."
 
 </div>
 
@@ -53,23 +58,20 @@
 
 #### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,sql&perline=5"/>
-
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css&perline=5"/>
 <br><br>
 
 #### SYSTEMS & TOOLS
 
-<img src="https://skillicons.dev/icons?i=linux,git,docker,vim,vscode&perline=5"/>
+<div align="center">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=linux,git,latex,vscode&perline=5"/>
 
-#### CURRENTLY EXPLORING
-
-`LLMs`   `Tokenization`   `Function Calling`   `Constrained Decoding`
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/canva.svg" width="48" height="48" alt="Canva"/>
 
 </div>
+<br><br>
 
-<br>
 
 ---
 
@@ -132,43 +134,6 @@ and function calling.
 
 ---
 
-<div align="center">
-
-### `04` — FEATURED PROJECTS
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<th>PROJECT</th>
-<th>FOCUS</th>
-</tr>
-
-<tr>
-<td align="center">🔧 <b>Codexion</b></td>
-<td>C · Threads · Mutexes · Synchronization · Scheduling</td>
-</tr>
-
-<tr>
-<td align="center">🤖 <b>Call Me Maybe</b></td>
-<td>LLMs · Tokenization · Function Calling · Constrained Decoding</td>
-</tr>
-
-<tr>
-<td align="center">🔀 <b>Push_swap</b></td>
-<td>C · Algorithms · Data Structures · Optimization</td>
-</tr>
-
-<tr>
-<td align="center">🗺️ <b>Fly</b></td>
-<td>Python · Parsing · Graphs · Pathfinding</td>
-</tr>
-
-</table>
-
-<br>
 
 <div align="center">
 
@@ -184,45 +149,39 @@ and function calling.
 
 <div align="center">
 
-### `05` — GITHUB ACTIVITY
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=meryemza&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemza&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="165"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=meryemza&hide_border=true&theme=transparent" />
-
-</div>
-
-<br>
-
----
+### `04` — GitHub Stats
 
 <div align="center">
 
-### `06` — LET'S CONNECT
+<!-- GitHub contribution graph is managed by GitHub -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meryemza&theme=github-compact&hide_border=true&area=true" width="95%"/>
+
+<br><br>
+
+<a href="https://github.com/meryemza"> <img src="https://github-readme-stats-fast.vercel.app/api?username=meryemza&show_icons=true&hide_border=true&theme=transparent" height="180"/> </a>
+
+</div>
+
+### `05` — LET'S CONNECT
 
 <br>
 
+<div align="center">
+
 <a href="https://github.com/meryemza">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/feed/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/u/0/#inbox">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
 </a>
 
-  
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-  
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
+</div>
 
 <br><br>
 
