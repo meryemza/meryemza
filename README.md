@@ -92,12 +92,6 @@
 
 <div align="center">
 
-<!-- GitHub contribution graph is managed by GitHub -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meryemza&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
-<br><br>
-
 <a href="https://github.com/meryemza"> <img src="https://github-readme-stats-fast.vercel.app/api?username=meryemza&show_icons=true&hide_border=true&theme=transparent" height="180"/> </a>
 
 </div>
