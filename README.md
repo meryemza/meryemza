@@ -104,29 +104,43 @@
 
 ### `04` — LET'S CONNECT
 
-<br>
+<table>
+<tr>
 
-<div align="center">
+<td width="65%" align="center">
+
+<br>
 
 <a href="https://github.com/meryemza">
   <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/feed/">
+
+<a href="YOUR_LINKEDIN_PROFILE">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/u/0/#inbox">
+
+<a href="mailto:YOUR_EMAIL">
   <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
 </a>
-
-</div>
 
 <br><br>
 
 `Open to learning • building • collaborating`
 
-</div>
+</td>
+
+<td width="35%" align="center">
+
+<img src="./me.png" width="180"/>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
