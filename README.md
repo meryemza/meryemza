@@ -114,13 +114,13 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_LINKEDIN_PROFILE">
+<a href="https://www.linkedin.com/feed/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="https://myaccount.google.com/?hl=fr">
   <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
 </a>
 
