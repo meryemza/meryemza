@@ -24,7 +24,7 @@
 <br>
 <div align="center">
   
-🎓 Licence in Cybersecurity
+🎓 Licence in Cybersecurity at 
 
 🏫 Currently studying Computer Science at 1337 (42 Network)
 
