@@ -58,7 +58,7 @@
 
 #### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=c,python,java,html,css&perline=5"/>
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,bash,&perline=5"/>
 <br><br>
 
 #### SYSTEMS & TOOLS
@@ -75,66 +75,12 @@
 
 ---
 
+
+
 <div align="center">
 
-### `03` — WHAT I BUILD
-
-</div>
-
+### `03` — GitHub Stats
 <br>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 🔐 CYBERSECURITY
-
-Security-oriented development,
-Linux environments, networking
-and understanding how systems
-can be protected.
-
-</td>
-
-<td width="50%" align="center">
-
-### 🖥️ SYSTEMS
-
-Low-level programming,
-memory, processes, threads,
-concurrency and Unix concepts.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🧠 ALGORITHMS
-
-Problem solving,
-data structures, optimization
-and algorithmic thinking.
-
-</td>
-
-<td width="50%" align="center">
-
-### 🤖 AI / LLM
-
-Learning how LLMs work,
-tokenization, constrained decoding
-and function calling.
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-
 <div align="center">
 
 <a href="https://github.com/meryemza?tab=repositories">
@@ -142,14 +88,7 @@ and function calling.
 </a>
 
 </div>
-
 <br>
-
----
-
-<div align="center">
-
-### `04` — GitHub Stats
 
 <div align="center">
 
@@ -163,7 +102,7 @@ and function calling.
 
 </div>
 
-### `05` — LET'S CONNECT
+### `04` — LET'S CONNECT
 
 <br>
 
