@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=MERYEM%20ZAHIR&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1026,100:F6B6D6&text=Hi%2C%20I%27m%20Meryem%20Zahir&fontSize=42&fontColor=#0B1026&fontAlignY=38&fontFamily=Pacifico&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Licence+in+Cybersecurity+%F0%9F%94%90;Computer+Science+Student+%40+1337+%F0%9F%92%BB;Learning+by+building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=750&color=F6B6D6&lines=Licence+in+Cybersecurity+%F0%9F%94%90;Computer+Science+Student+%40+1337+%F0%9F%92%BB;Learning+by+building+%F0%9F%9A%80" />
+
+</div>
 
 <br><br>
-
 
 </div>
 
@@ -77,24 +78,26 @@
 
 
 
-<div align="center">
-
 ### `03` — GitHub Stats
 <br>
+
 <div align="center">
 
 <a href="https://github.com/meryemza?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-F6B6D6?style=for-the-badge&logo=github&logoColor=0B1026"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/meryemza">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=meryemza&show_icons=true&hide_border=true&bg_color=0B1026&title_color=F6B6D6&text_color=FFFFFF&icon_color=F6B6D6" height="180"/>
 </a>
 
 </div>
-<br>
+<br><br>
 
-<div align="center">
 
-<a href="https://github.com/meryemza"> <img src="https://github-readme-stats-fast.vercel.app/api?username=meryemza&show_icons=true&hide_border=true&theme=transparent" height="180"/> </a>
-
-</div>
+---
 
 ### `04` — LET'S CONNECT
 
@@ -140,7 +143,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1026,100:F6B6D6&section=footer" width="100%"/>
 
 </div>
 
