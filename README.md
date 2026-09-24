@@ -149,5 +149,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1026,100:F6B6D6&section=footer" width="100%"/>
 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0B1026&height=100&section=footer"
+    width="100%"
+  />
+</p>
+
 </div>
 
