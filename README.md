@@ -77,9 +77,9 @@
 <br><br>
 
 ---
-
+<div align="center">
 ### `03` — GitHub Stats
-
+</div>
 <br>
 
 <div align="center">
@@ -99,9 +99,9 @@
 <br><br>
 
 ---
-
+<div align="center">
 ### `04` — LET'S CONNECT
-
+</div>
 <table>
 <tr>
 
