@@ -149,12 +149,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1026,100:F6B6D6&section=footer" width="100%"/>
 
+<br><br>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=F6B6D6&center=true&vCenter=true&width=700&lines=01001001+01001110+01010100+01000101+01001100+01001100+01001001+01000111+01000101+01001110+01000011+01000101"
-  />
-</p>
+<div align="center">
+
+<img src="YOUR_ANIMATED_CONTRIBUTION_GRAPH_HERE" width="100%"/>
+
+</div>
+
+<br><br>
 
 </div>
 
