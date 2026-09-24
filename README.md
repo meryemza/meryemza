@@ -117,11 +117,11 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/feed/"> <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/> </a>
+<a href="https://www.linkedin.com/in/meryem-zahir-4342a2259/"> <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/> </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://myaccount.google.com/?hl=fr"> <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/> </a>
+<a href="mailto:meryemzahir999@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/> </a>
 
 <br><br>
 
