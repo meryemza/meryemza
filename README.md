@@ -149,23 +149,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1026,100:F6B6D6&section=footer" width="100%"/>
 
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="./walking-cat.gif" width="120" alt="Walking cat"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1026,100:F6B6D6&section=footer" width="100%"/>
-
-</div>
 
 </div>
 
