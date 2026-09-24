@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1026,100:F6B6D6&text=Hi%2C%20I%27m%20Meryem%20Zahir&fontSize=42&fontColor=0B1026&fontAlignY=38&fontFamily=Pacifico&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1026,100:F6B6D6&text=Hi%2C%20I%27m%20Meryem%20Zahir&fontSize=42&fontColor=#0B1026&fontAlignY=38&fontFamily=Pacifico&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=F6B6D6&lines=Computer+Science+Student+%40+1337+%F0%9F%92%BB" />
@@ -12,20 +12,22 @@
 
 </div>
 
+<br><br>
+
 <br>
 
 ---
 
 <div align="center">
 
-### `01` — ABOUT ME
+### `01` — About Me
 
 </div>
 
 <br>
 
 <div align="center">
-
+  
 🎓 Licence in Cybersecurity at FSTG
 
 🏫 Currently studying Computer Science at 1337 (42 Network)
@@ -40,13 +42,15 @@
 
 🚀 I learn by building projects and challenging myself beyond my comfort zone.
 
-<br>
-
-*"I learn by building, breaking, and understanding how things work."*
-
 </div>
 
+<div align="center">
+
 <br>
+
+"I learn by building, breaking, and understanding how things work."
+
+</div>
 
 ---
 
@@ -56,25 +60,25 @@
 
 <br>
 
-#### LANGUAGES & SCRIPTING
+#### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=c,python,java,html,css,bash&perline=6"/>
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,bash&perline=5"/>
 
 <br><br>
 
 #### SYSTEMS & TOOLS
 
-<img src="https://skillicons.dev/icons?i=linux,git,latex,vscode&perline=4"/>
-&nbsp;
+<img src="https://skillicons.dev/icons?i=linux,git,latex,vscode&perline=5"/>
+
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/canva.svg" width="48" height="48" alt="Canva"/>
 
 </div>
 
-<br>
+<br><br>
 
 ---
 
-### `03` — GITHUB STATS
+### `03` — GitHub Stats
 
 <br>
 
@@ -98,9 +102,7 @@
 
 ### `04` — LET'S CONNECT
 
-<br>
-
-<table align="center">
+<table>
 <tr>
 
 <td width="65%" align="center">
@@ -120,14 +122,12 @@
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
 </a>
 
 <br><br>
 
 `Open to learning • building • collaborating`
-
-<br><br>
 
 </td>
 
@@ -147,13 +147,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1026,100:F6B6D6&section=footer" width="100%"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1026,100:F6B6D6&section=footer" width="100%"/>
-
-
-</div>
-
