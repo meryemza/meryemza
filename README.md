@@ -27,10 +27,10 @@
 <br>
 
 <div align="center">
-  
-🎓 Licence in Cybersecurity at FSTG
 
 🏫 Currently studying Computer Science at 1337 (42 Network)
+  
+🎓 Licence in Cybersecurity at FSTG
 
 🔐 Interested in Cybersecurity and secure software development
 
